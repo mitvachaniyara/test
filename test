@@ -1,6 +1,7 @@
 Multi auth
 https://techvblogs.com/blog/multiple-authentication-guards-laravel-9
 https://github.com/suresh-ramani/multi-guard-authentication-laravel9
+https://www.fundaofwebit.com/post/laravel-9-auth-scaffolding-ui-without-npm-package
 
 Custom Auth
 https://www.positronx.io/laravel-custom-authentication-login-and-registration-tutorial/
@@ -27,3 +28,6 @@ https://www.positronx.io/laravel-jwt-authentication-tutorial-user-login-signup-a
 
 Passport Authentication
 https://www.itsolutionstuff.com/post/laravel-8-rest-api-with-passport-authentication-tutorialexample.html
+
+Ajax Crud
+https://www.fundaofwebit.com/post/laravel-8-ajax-crud-with-example
